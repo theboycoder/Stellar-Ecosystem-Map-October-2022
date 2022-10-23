@@ -12,6 +12,7 @@ xBull - [xbull.app](https://xbull.app) (Web)
 Frighter - [freighter.app](https://freighter.app) (Web)  
 Albedo - [albedo.link](https://albedo.link) (Web)  
 Ledger - [ledger.com](https://ledger.com) (Hardware)  
+
 **SDEX - Decentralized Exchange User Interface**  
 StellarX -[stellarx.com](https://www.stellarx.com/)  
 Stellarterm - [stellarterm.com](https://stellarterm.com)  
