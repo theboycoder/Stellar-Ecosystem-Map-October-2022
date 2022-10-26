@@ -74,7 +74,7 @@ Okcoin - [okcoin.com](https://okcoin.com) (International) **Check FAQ**
 Liquid - [liquid.com](https://www.liquid.com) (International & Asia) **Check FAQ**  
 Whitebit - [whitebit.com](https://whitebit.com) (International & Europe) 
 WireX - [Wirexapp.com](https://wirexapp.com/en) (Check for Eligibility)
-Liquid - [liquid.com](https://www.liquid.com) (International & Asia) **Check FAQ**  
+
 
 **Stellar Community**  
 Stellar Global - [Discord](https://discord.com/invite/NYubt9e)  
