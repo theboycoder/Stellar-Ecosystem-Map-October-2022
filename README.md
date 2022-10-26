@@ -72,7 +72,7 @@ Binance - [binance.com](https://binance.com) (International)
 Newton - [newton.co](https://www.newton.co/) (Canadian Exchange)  
 Okcoin - [okcoin.com](https://okcoin.com) (International) **Check FAQ**  
 Liquid - [liquid.com](https://www.liquid.com) (International & Asia) **Check FAQ**  
-Whitebit - [whitebit.com](https://whitebit.com) (International & Europe)
+Whitebit - [whitebit.com](https://whitebit.com) (International & Europe) 
 WireX - [Wirexapp.com](https://wirexapp.com/en) (Check for Eligibility)
 
 **Stellar Community**  
