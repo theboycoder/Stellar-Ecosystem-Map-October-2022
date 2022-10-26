@@ -72,7 +72,8 @@ Binance - [binance.com](https://binance.com) (International)
 Newton - [newton.co](https://www.newton.co/) (Canadian Exchange)  
 Okcoin - [okcoin.com](https://okcoin.com) (International) **Check FAQ**  
 Liquid - [liquid.com](https://www.liquid.com) (International & Asia) **Check FAQ**  
-Whitebit - [whitebit.com](https://whitebit.com) (International & Europe)  
+Whitebit - [whitebit.com](https://whitebit.com) (International & Europe)
+WireX - [Wirexapp.com](https://wirexapp.com/en) (Check for Eligibility)
 
 **Stellar Community**  
 Stellar Global - [Discord](https://discord.com/invite/NYubt9e)  
@@ -117,7 +118,7 @@ Elsa Care - [elsa.care](https://www.elsa.care/)  (**Payments**)
 WireX - [wirexapp.com](https://wirexapp.com/en)(**Anchor and Payments**) Point of Sale Crypto Card, Wallet and Exchange  
 Flutterwave - [flutterwave.com](https://flutterwave.com) (**Payments and Integration**)  
 AirTM - [airtm.com](https://airtm.com) (**Cross Border Payments**)  
-COINQVEST - coinqvest.com (**E-Commerce, Applications and Anchor**)  
+COINQVEST - [Coinqvest.com](https://www.coinqvest.com/) (**E-Commerce, Applications and Anchor**)  
 Bitwage - [bitwage.com](https://bitwage.com) (**Payrolls**)  
 Rehive - [rehive.com](https://rehive.com) (**Applications**)  Fintech App Builder  
 Arf - [arf.one](https://arf.one) (**Service Providers**)  Global Settlement Banking Platform  
