@@ -70,10 +70,10 @@ Asset Clawback - Protocol 17 - [stellar.org/developers-blog/protocol-17-upgrade-
 **Stellar USDC**  
 Binance - [binance.com](https://binance.com) (International)  
 Newton - [newton.co](https://www.newton.co/) (Canadian Exchange)  
-Okcoin - [okcoin.com](https://okcoin.com) (International) **Check FAQ**  
+Okcoin - [okcoin.com](https://okcoin.com) (International) **Check FAQ** 
+WireX - [Wirexapp.com](https://wirexapp.com/en) (Check for Eligibility) 
 Liquid - [liquid.com](https://www.liquid.com) (International & Asia) **Check FAQ**  
 Whitebit - [whitebit.com](https://whitebit.com) (International & Europe) 
-WireX - [Wirexapp.com](https://wirexapp.com/en) (Check for Eligibility)
 
 **Stellar Community**  
 Stellar Global - [Discord](https://discord.com/invite/NYubt9e)  
