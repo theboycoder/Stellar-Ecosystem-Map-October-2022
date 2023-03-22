@@ -68,14 +68,14 @@ Native L1 AMM - Protocol 18 - [stellar.org/developers-blog/protocol-18-upgrade-c
 Asset Clawback - Protocol 17 - [stellar.org/developers-blog/protocol-17-upgrade-complete](https://stellar.org/developers-blog/protocol-17-upgrade-complete)  
 
  ## **Stellar USDC**  
- - Binance - [binance.com](https://binance.com) (International)  
- - Newton - [newton.co](https://www.newton.co/) (Canadian Exchange)  
- - Okcoin - [okcoin.com](https://okcoin.com) (International) **Check FAQ** 
- - Liquid - [liquid.com](https://www.liquid.com) (International & Asia) **Check FAQ**  
- - Whitebit - [whitebit.com](https://whitebit.com) (International & Europe) 
+ - Binance - [Binance.com](https://binance.com) (International)  
+ - Newton - [Newton.co](https://www.newton.co/) (Canadian Exchange)  
+ - Okcoin - [Okcoin.com](https://okcoin.com) (International) **Check FAQ** 
+ - Liquid - [Liquid.com](https://www.liquid.com) (International & Asia) **Check FAQ**  
+ - Whitebit - [Whitebit.com](https://whitebit.com) (International & Europe) 
  - WireX - [Wirexapp.com](https://wirexapp.com/en) (Check for Eligibility)
- - Cex.io - [cex.io/](https://cex.io/)
- - Coinex - [coinex.com/](https://www.coinex.com/)
+ - Cex.io - [Cex.io/](https://cex.io/)
+ - Coinex - [Coinex.com/](https://www.coinex.com/)
 
 
  ## **Stellar Community**  
