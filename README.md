@@ -74,8 +74,8 @@ Asset Clawback - Protocol 17 - [stellar.org/developers-blog/protocol-17-upgrade-
  - Liquid - [Liquid.com](https://www.liquid.com) (International & Asia) **Check FAQ**  
  - Whitebit - [Whitebit.com](https://whitebit.com) (International & Europe) 
  - WireX - [Wirexapp.com](https://wirexapp.com/en) (Check for Eligibility)
- - Cex.io - [Cex.io/](https://cex.io/)
- - Coinex - [Coinex.com/](https://www.coinex.com/)
+ - Cex.io - [Cex.io](https://cex.io/)
+ - Coinex - [Coinex.com](https://www.coinex.com/)
 
 
  ## **Stellar Community**  
