@@ -1,10 +1,10 @@
 ![Stellar Map - Ecosystem](https://user-images.githubusercontent.com/45983304/197403463-b0aae3cf-565d-42d9-8d40-c70278678998.png)
 
 
-# Map Guide - Oct 2022  
+ ## Map Guide - Oct 2022  
 This map **does not represent** the full scale of the Stellar Ecosystem. There are **tons of projects** and **tools** not included in this map/list. This for **education purposes** and meant to make Stellar **less intimidating** for people new to Stellar. I was **limited** for space and had to exclude some projects and tools which otherwise would have been in more categories.
   
-**Wallets**  
+ ## **Wallets**  
 Lobstr - [lobstr.co](https://lobstr.co) (iOS App Store and Google Play Store)  
 Vibrant - [vibrantapp.com](https://vibrantapp.com) (iOS App Store and Google Play Store)  
 Beans App - [beansapp.com](https://beansapp.com) (iOS App Store and Google Play Store) in Beta  
@@ -13,22 +13,22 @@ Frighter - [freighter.app](https://freighter.app) (Web)
 Albedo - [albedo.link](https://albedo.link) (Web)  
 Ledger - [ledger.com](https://ledger.com) (Hardware)  
 
-**SDEX - Decentralized Exchange User Interface**  
+ ## **SDEX - Decentralized Exchange User Interface**  
 StellarX -[stellarx.com](https://www.stellarx.com/)  
 Stellarterm - [stellarterm.com](https://stellarterm.com)  
 Lumenswap - [lumenswap.io](https://lumenswap.io)  
 Stellarport - [stellarport.io](https://stellarport.io)  
 
-**Network Explorers**  
+ ## **Network Explorers**  
 Stellar.expert - [stellar.expert](https://stellar.expert) (Ledger explorer and analytics platform for Stellar Network)  
 Stellarbeat - [stellarbeat.io](https://stellarbeat.io) (Stellar node explorer)  
 
-**Education**  
+ ## **Education**  
 Stellar Quest - [quest.stellar.org](https://quest.stellar.org) (Learn the Stellar blockchain, collect unique NFTs, earn XLM rewards)  
 EduNode - [edunode.org](https://edunode.org) (E-learning platform)  
 Everything Stellar - [Everything Stellar Youtube](https://www.youtube.com/channel/UC2VoQ7nkSG1CDLoSIySq3Vw) (tutorials, reviews, news and live shows)  
 
-**Stellar SDKs**  
+ ## **Stellar SDKs**  
 Stellar SDK Library - [SDK Library](https://developers.stellar.org/docs/tools-and-sdks)  
 Javascript  
 Java  
@@ -43,7 +43,7 @@ Flutter
 PHP  
 Elixir (beta)  
 
-**Tools**  
+ ## **Tools**  
 Moneygram Integration - [stellar.org/moneygram](https://stellar.org/moneygram)  
 Stellar tools - [stellar.org/tools](https://stellar.org/tools)  
 Anchor Platform -[stellar.org/anchorplatform](https://stellar.org/anchorplatform)  
@@ -54,12 +54,12 @@ Kelp Trading Bot - [kelpbot.io](https://kelpbot.io)
 Token Factory - [stellar.cheesecakelabs.com](https://stellar.cheesecakelabs.com)  
 Anchor Directory - [resources.stellar.org/anchors](https://resources.stellar.org/anchors)  
 
-**Smart Contracts**  
+ ## **Smart Contracts**  
 Soroban - [soroban.stellar.org](https://soroban.stellar.org) (Rust + WASM) **In Development Testnet**  
 Soroban Docs - [soroban.stellar.org/docs](https://soroban.stellar.org/docs)  
 Sorobanathon - [github.com/stellar/sorobanathon](https://github.com/stellar/sorobanathon) (**$100M Adoption Fund**)
   
-**Core Protocols**  
+ ## **Core Protocols**  
 Developers Blog - [stellar.org/developers-blog](https://stellar.org/developers-blog)  
 Stellar Developers Google Groups - [groups.google.com/g/stellar-dev](https://groups.google.com/g/stellar-dev)  
 Protocols - [github.com/stellar/stellar-protocol](https://github.com/stellar/stellar-protocol)  
@@ -67,7 +67,7 @@ Cap 21, 40 - Protocol 19 - [stellar.org/developers-blog/protocol-19-upgrade-guid
 Native L1 AMM - Protocol 18 - [stellar.org/developers-blog/protocol-18-upgrade-complete](https://stellar.org/developers-blog/protocol-18-upgrade-complete)  
 Asset Clawback - Protocol 17 - [stellar.org/developers-blog/protocol-17-upgrade-complete](https://stellar.org/developers-blog/protocol-17-upgrade-complete)  
 
-**Stellar USDC**  
+ ## **Stellar USDC**  
  - Binance - [binance.com](https://binance.com) (International)  
  - Newton - [newton.co](https://www.newton.co/) (Canadian Exchange)  
  - Okcoin - [okcoin.com](https://okcoin.com) (International) **Check FAQ** 
@@ -76,13 +76,13 @@ Asset Clawback - Protocol 17 - [stellar.org/developers-blog/protocol-17-upgrade-
  - WireX - [Wirexapp.com](https://wirexapp.com/en) (Check for Eligibility)
 
 
-**Stellar Community**  
+ ## **Stellar Community**  
 Stellar Global - [Discord](https://discord.com/invite/NYubt9e)  
 Stellar Reddit - r/Stellar  
 Stellar Developers Server - [Discord](https://discord.com/invite/6ZCcYqbC96)  
 Stellar Org - [Twitter](https://twitter.com/StellarOrg)  
 
-**Anchor Assets**  
+ ## **Anchor Assets**  
 Full Anchor Directory - [resources.stellar.org/anchors](https://resources.stellar.org/anchors)  
 USDC - Circle  
 BTC - Ultrastellar  
@@ -93,14 +93,14 @@ ARST - Stablex
 BRLT - Stablex  
 \+ many more  
 
-**Yield Assets**  
+ ## **Yield Assets**  
 UltraStellar - [ultrastellar.com/assets/](https://ultrastellar.com/assets/) (**yields may increase of decrease in the future**)  
 yBTC - 3.8%  
 yETH - 5%  
 yXLM - 5%  
 yUSDC - 7%  
 
-**Built on Stellar**  
+ ## **Built on Stellar**  
 These are just **some** of the projects built on stellar and **do not cover** the entire ecosystem. The List is **constantly changing** please look to the ecosystem directory for more information.
 
 In no particular order;  
